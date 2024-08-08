@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1722898467 source:c:\users\germa\onedrive\escritorio\hospital\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"stHospital.h"
+	"time.h"
+
+1722553732 c:\users\germa\onedrive\escritorio\hospital\persona.h
+
+1722558811 source:c:\users\germa\onedrive\escritorio\hospital\persona.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1722898566 source:c:\users\germa\onedrive\escritorio\hospital\sthospital.c
+	<stdio.h>
+	<stdlib.h>
+	"stHospital.h"
+
+1722898467 c:\users\germa\onedrive\escritorio\hospital\sthospital.h
+	"persona.h"
+
